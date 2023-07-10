@@ -64,7 +64,7 @@ function App() {
             <img src={require('./assests/images/profile.png')} height='40px' width='40px' />
             </div>
           <div>
-          <p>&quotIn early product development, we needed a way to easily connect our growing IoT product-base to our systems. ZeroTier provided an easy, and reliable way to achieve that, and has been growing with us.&quot<br/><br/>PETER BOIN, PRINCIPAL SOFTWARE ENGINEER, ALLUME ENERGY</p>
+          <p>"In early product development, we needed a way to easily connect our growing IoT product-base to our systems. ZeroTier provided an easy, and reliable way to achieve that, and has been growing with us."<br/><br/>PETER BOIN, PRINCIPAL SOFTWARE ENGINEER, ALLUME ENERGY</p>
           </div>
         </GradientCardComponent>
         <GradientCardComponent>
@@ -72,7 +72,7 @@ function App() {
             <img src={require('./assests/images/profile.png')} height='40px' width='40px' />
             </div>
           <div>
-          <p>&quotZeroTier provides a robust and essential backbone for our communications stack.&quot<br/><br/>ANDREW LIPSCOMB, MECHATRONICS ENGINEER, SWARMFARM ROBOTICS</p>
+          <p>"ZeroTier provides a robust and essential backbone for our communications stack."<br/><br/>ANDREW LIPSCOMB, MECHATRONICS ENGINEER, SWARMFARM ROBOTICS</p>
           </div>
         </GradientCardComponent>
         <GradientCardComponent>
