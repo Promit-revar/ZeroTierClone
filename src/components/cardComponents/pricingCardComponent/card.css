@@ -1,0 +1,29 @@
+.pricing-card{
+    display: flex;
+    align-items: center;
+    line-height: 200%;
+    justify-content: center;
+    border-radius: var(--_1hrp33e20);
+    overflow: hidden;
+    padding-bottom: var(--_1hrp33eu);
+    padding-top: var(--_1hrp33eu);
+    background-color: var(--_1hrp33e4);
+    color: #fff;
+    flex-wrap: wrap;
+    width: 350px;
+    padding: 30px;
+    cursor: pointer;
+}
+.white-background{
+    border: 2px solid white;
+}
+.yellow-background{
+    border: 2px solid rgb(255, 187, 0);
+}
+.blue-background{
+    border: 2px solid var(--_1hrp33e5);
+}
+.blue-background:hover{
+    background: none;
+    color: var(--_1hrp33e5);;
+}

@@ -1,0 +1,12 @@
+.link{
+    color: #fff;
+    font-size: var(--_1hrp33e15);
+    font-weight: var(--_1hrp33e1e);
+    font-family: var(--_1hrp33e1g);
+    line-height: 1.5em;
+    text-decoration: none;
+    cursor: pointer;
+}
+.link:hover{
+    color: rgb(255, 187, 0);
+}

@@ -1,0 +1,13 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    color: #fff;
+    background-color: var(--_1hrp33e4);
+    justify-content: space-between;
+}
+.credits{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

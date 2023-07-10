@@ -1,0 +1,17 @@
+.gradient-card{
+    background-image: linear-gradient(133deg, #fdb25d, #4436ca);
+    margin-bottom: 40px;
+    border-radius: var(--_1hrp33e20);
+    overflow: hidden;
+    padding: var(--_1hrp33eu);
+    box-sizing: border-box;
+    transition: all .25s ease-out;
+    color: #ffffff;
+    font-family: var(--_1hrp33e1g);
+    font-size: var(--_1hrp33e16);
+    line-height: 1.5em;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: 90%;
+}
